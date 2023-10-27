@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "categoryId": 1,
+            "name": "Cosmetics",
+            "productList": [
+                {
+                    "productId": 1,
+                    "name": "Hair Oil",
+                    "price": 122
+                },
+                {
+                    "productId": 2,
+                    "name": "Face wash",
+                    "price": 123
+                }
+            ]
+        },
+        {
+            "categoryId": 2,
+            "name": "Household",
+            "productList": [
+                {
+                    "productId": 1,
+                    "name": "Table",
+                    "price": 3500
+                },
+                {
+                    "productId": 2,
+                    "name": "Chair",
+                    "price": 500
+                }
+            ]
+        }
+    ]
+}
